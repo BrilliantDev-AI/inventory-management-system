@@ -20,7 +20,7 @@ $(document).ready(function() {
 		allowedFileExtensions: ["csv", "xls", "xlsx"]
 	  });
 		$(".text-danger").remove();
-		// remove from-group error
+		// remove from-group error 
 		$(".form-group").removeClass('has-error').removeClass('has-success');
 		  
 		
